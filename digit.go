@@ -1,4 +1,4 @@
-package chinese
+package pinyin
 
 import (
 	"regexp"

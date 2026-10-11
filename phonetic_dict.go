@@ -1,4 +1,4 @@
-package chinese
+package pinyin
 
 var phoneticDict = map[string]string{
 	"ā": "a1",
