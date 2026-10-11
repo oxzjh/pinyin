@@ -1,4 +1,4 @@
-package chinese
+package pinyin
 
 var pinyinDict = map[rune]string{
 	'〇': "líng,yuán,xīng",
